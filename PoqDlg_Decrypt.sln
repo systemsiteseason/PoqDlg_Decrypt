@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoqDlg_Decrypt", "PoqDlg_Decrypt\PoqDlg_Decrypt.csproj", "{2F99C139-1E64-41D2-81B3-C6D70A80389D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F99C139-1E64-41D2-81B3-C6D70A80389D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F99C139-1E64-41D2-81B3-C6D70A80389D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F99C139-1E64-41D2-81B3-C6D70A80389D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F99C139-1E64-41D2-81B3-C6D70A80389D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8468344-E6CB-49B0-9CB4-7B37CE45CACC}
+	EndGlobalSection
+EndGlobal
